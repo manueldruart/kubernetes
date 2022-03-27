@@ -20,9 +20,14 @@ The Alertmanager handles alerts sent by client applications such as the Promethe
 Clone this repo to your host and then apply command :
 
 ```
-kubectl apply -f prometheus/
+kubectl apply -f Alert-Manager/
 ```
 
 This will apply to all files in the folder you just cloned.
 
+## Docs
+
+You can find the docs at the official [Alert-Manager] page.
+
 [prometheus]: https://github.com/manueldruart/kubernetes/tree/main/Prometheus
+[alert-manager]: https://prometheus.io/docs/alerting/latest/overview/
