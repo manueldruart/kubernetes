@@ -1,4 +1,4 @@
-# Kubernetes
+# Kubernetes (K8s)
 
 ## Install Kubernetes on Ubuntu 20.04
 
